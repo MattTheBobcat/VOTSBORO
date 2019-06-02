@@ -9,10 +9,10 @@ A collection short, gothic stories in the vein of YA literature
 - "Above a Pedestrian: A William Faulkner Tribute"
 - "The Silent Banshee"
 - "Molar"
-- "Truck and Troll"
+- "Truck and Tröll"
 - "The Vots"
 
 
 ***
 
-Copyright 2018-2019 Matthew M. Waters
+© 2018-2019 Matthew M. Waters
