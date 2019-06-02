@@ -2,7 +2,7 @@
 A collection short, gothic stories in the vein of YA literature
 
 - "They Never Told Me"
-- "The Vigilantes"
+- ["The Vigilantes"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Vidges.pdf)
 - "Hide the Shiny Skeleton"
 - "Felix Fluke"
 - "Fort Corpse"
