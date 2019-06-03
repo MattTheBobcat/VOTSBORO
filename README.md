@@ -7,7 +7,7 @@ A collection short, gothic stories in the vein of YA literature
 - "Felix Fluke"
 - "Fort Corpse"
 - ["Above a Pedestrian: A William Faulkner Tribute"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Above_a_Pedestrian.pdf)
-- "The Silent Banshee"
+- ["The Silent Banshee"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Silent%20Banshee.pdf)
 - "Molar"
 - "Truck and Tröll"
 - "The Vots"
