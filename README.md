@@ -9,7 +9,7 @@ A collection short, gothic stories in the vein of YA literature
 - ["Above a Pedestrian: A William Faulkner Tribute"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Above_a_Pedestrian.pdf)
 - ["The Silent Banshee"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Silent%20Banshee.pdf)
 - "Molar"
-- "Truck & Tröll"
+- ["Truck & Tröll"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Truck%20and%20Tr%C3%B6ll.pdf)
 - "The Vots"
 
 
