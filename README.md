@@ -16,4 +16,4 @@ A collection short, gothic stories in the vein of YA literature
 
 ***
 
-© 2018-2019 Matthew M. Waters
+© 2017-2019 Matthew M. Waters
