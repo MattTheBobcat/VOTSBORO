@@ -12,7 +12,7 @@ A collection short, gothic stories in the vein of YA literature
 - "Truck and Tröll"
 - "The Vots"
 
-P.S. Please pardon the mild glitches in font.
+
 
 ***
 
