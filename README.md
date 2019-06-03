@@ -5,7 +5,7 @@ A collection short, gothic stories in the vein of YA literature
 - ["The Vigilantes"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Vidges.pdf)
 - ["Hide the Shiny Skeleton"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Shiny%20Skeleton.pdf)
 - "Felix Fluke"
-- "Fort Corpse"
+- ["Fort Corpse"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Fort%20Corpse.pdf)
 - ["Above a Pedestrian: A William Faulkner Tribute"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Above_a_Pedestrian.pdf)
 - ["The Silent Banshee"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Silent%20Banshee.pdf)
 - "Molar"
