@@ -10,7 +10,7 @@ A collection short, gothic stories in the vein of YA literature
 - ["The Silent Banshee"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Silent%20Banshee.pdf)
 - "Molar"
 - ["Truck & Tröll"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Truck%20and%20Tr%C3%B6ll.pdf)
-- "The Vots"
+- ["The Vots"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/The%20Vots.pdf)
 
 
 
