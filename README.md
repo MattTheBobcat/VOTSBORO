@@ -1,6 +1,7 @@
 # *VOTSBORO*
-## [Watch the Book Trailer](https://youtu.be/IfGcjDhU8G4)
 A collection short, gothic stories in the vein of YA literature
+
+**[Watch the Book Trailer](https://youtu.be/IfGcjDhU8G4)**
 
 - ["They Never Told Me"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/They_Never_Told_Me.pdf)
 - ["The Vigilantes"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Vidges.pdf)
