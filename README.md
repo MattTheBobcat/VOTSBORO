@@ -10,7 +10,7 @@ A collection short, gothic stories in the vein of YA literature
 - ["Fort Corpse"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Fort%20Corpse.pdf)
 - ["Above a Pedestrian: A William Faulkner Tribute"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Above_a_Pedestrian.pdf)
 - ["The Silent Banshee"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Silent%20Banshee.pdf)
-- "Molar" (Coming Soon)
+- ["Molar"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Molar.pdf)
 - ["Truck & Tröll"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Truck%20and%20Tr%C3%B6ll.pdf)
 - ["The Vots"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/The%20Vots.pdf)
 
