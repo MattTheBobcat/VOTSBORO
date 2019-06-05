@@ -15,7 +15,7 @@ A collection short, gothic stories in the vein of YA literature
 - ["The Vots"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/The%20Vots.pdf)
 
 
-Author's Note (Coming Soon)
+[Author's Note](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Vots_Author_Note.pdf)
 
 
 
