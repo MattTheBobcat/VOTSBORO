@@ -1,5 +1,5 @@
 # *VOTSBORO*
-A collection short, gothic stories in the vein of YA literature
+A collection short, gothic/sci-fi stories in the vein of YA literature
 
 **[Watch the Book Trailer](https://youtu.be/IfGcjDhU8G4)**
 
