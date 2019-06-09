@@ -3,7 +3,7 @@ A collection short, gothic/sci-fi stories in the vein of YA literature
 
 **[Watch the Book Trailer](https://youtu.be/IfGcjDhU8G4)**
 
-**Full Text** (coming soon)
+**[Full Text](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Votsboro_Full_Text.pdf)**
 
 - ["They Never Told Me"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/They_Never_Told_Me.pdf)
 - ["The Vigilantes"](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Vidges.pdf)
