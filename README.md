@@ -20,7 +20,7 @@
 
 
 ***
-[Buy yourself a copy :)](https://www.amazon.com/s?k=Votsboro&ref=nb_sb_noss)
+[Buy yourself a copy :)](https://www.amazon.com/dp/B07SVWM5H8/ref=sr_1_1?keywords=Votsboro&qid=1560137539&s=gateway&sr=8-1)
 
 ***
 
