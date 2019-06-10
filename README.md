@@ -1,5 +1,4 @@
-# *VOTSBORO*
-A collection short, gothic/sci-fi stories in the vein of YA literature
+![Votsboro Front Cover](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Votsboro_Frontcover.jpeg)
 
 **[Watch the Book Trailer](https://youtu.be/IfGcjDhU8G4)**
 
