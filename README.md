@@ -19,6 +19,8 @@
 [Author's Note](https://github.com/MattTheBobcat/VOTSBORO/blob/master/Vots_Author_Note.pdf)
 
 
+***
+[Buy yourself a copy :)](https://www.amazon.com/s?k=Votsboro&ref=nb_sb_noss)
 
 ***
 
