@@ -22,6 +22,11 @@
 ***
 [Buy yourself a copy :)](https://www.amazon.com/dp/B07SVWM5H8/ref=sr_1_1?keywords=Votsboro&qid=1560137539&s=gateway&sr=8-1)
 
+Follow my social media pawprints :)
+- [Facebook](https://www.facebook.com/mistermorethanfour)
+- [Twitter](https://www.twitter.com/mistermorethan4)
+- [YouTube](https://www.youtube.com/channel/UC_s-VK6XwokSy5d3wrHNXOQ)
+
 ***
 
 © 2017-2019 Matthew M. Waters
