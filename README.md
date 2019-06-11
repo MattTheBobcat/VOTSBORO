@@ -23,9 +23,10 @@
 [Buy yourself a copy :)](https://www.amazon.com/dp/B07SVWM5H8/ref=sr_1_1?keywords=Votsboro&qid=1560137539&s=gateway&sr=8-1)
 
 Follow my social media pawprints :)
-- [Facebook](https://www.facebook.com/mistermorethanfour)
-- [Twitter](https://www.twitter.com/mistermorethan4)
-- [YouTube](https://www.youtube.com/channel/UC_s-VK6XwokSy5d3wrHNXOQ)
+- [Twitter](https://www.twitter.com/mistermorethan4) (Active)
+- [Facebook](https://www.facebook.com/mistermorethanfour) (Semi-Active)
+- [YouTube](https://www.youtube.com/channel/UC_s-VK6XwokSy5d3wrHNXOQ) (Work in Progress/Stay Tuned)
+- Snapchat: fifty*seven*watt (Active)
 
 ***
 
