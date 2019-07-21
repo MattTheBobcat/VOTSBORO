@@ -23,9 +23,9 @@
 [Buy yourself a copy :)](https://www.amazon.com/s?k=Votsboro&ref=nb_sb_noss)
 
 Follow my social media pawprints :)
-- [Twitter](https://www.twitter.com/mistermorethan4) (Active)
-- [Facebook](https://www.facebook.com/mistermorethanfour) (Semi-Active)
-- Snapchat: @fifty*seven*watt (Active)
+- [Twitter](https://www.twitter.com/mistermorethan4)
+- [Facebook](https://www.facebook.com/mistermorethanfour)
+- Snapchat: @fifty*seven*watt
 - Instagram: @matthewmwaters
 
 ***
