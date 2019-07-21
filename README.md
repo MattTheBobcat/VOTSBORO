@@ -25,7 +25,8 @@
 Follow my social media pawprints :)
 - [Twitter](https://www.twitter.com/mistermorethan4) (Active)
 - [Facebook](https://www.facebook.com/mistermorethanfour) (Semi-Active)
-- Snapchat: fifty*seven*watt (Active)
+- Snapchat: @fifty*seven*watt (Active)
+- Instagram: @matthewmwaters
 
 ***
 
