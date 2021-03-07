@@ -20,7 +20,5 @@
 
 
 ***
-[Buy yourself a copy :)](https://www.amazon.com/s?k=Votsboro&ref=nb_sb_noss)
-***
 
 © 2017-2019 Matthew M. Waters
